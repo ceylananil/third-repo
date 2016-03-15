@@ -9,7 +9,7 @@ About Me
 Who am I
 ----------
 
-- [CV](ceylananil.github.io/third-repo/cv.html)
+- [CV](https://ceylananil.github.io/third-repo/cv.html)
 
 
 What have I done
@@ -18,4 +18,4 @@ What have I done
 Assignment 2
 -----------
 
-- [My exercise example](ceylananil.github.io/third-repo/exercise.html)
+- [My exercise example](https://ceylananil.github.io/third-repo/exercise.html)
