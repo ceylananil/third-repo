@@ -96,3 +96,4 @@ Available upon request
 
 - [Presentation](http://ceylananil.github.io/third-repo/presentation.html)
 - [Assignment 2](http://ceylananil.github.io/third-repo/exercise.html)
+- [Assignment 3](http://ceylananil.github.io/third-repo/third-assignment.ipynb)
